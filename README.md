@@ -25,11 +25,11 @@ The Document Submission App streamlines the process of:
 
 ## ✨ Key Features
 
-- 🔐 User Authentication (Students, Supervisors, Admin)
+- 🔐 User Authentication (Researchers, Reviewers, Admin)
 - 📤 Secure Document Upload and Storage
 - 📝 Document Review & Status Tracking
 - 📨 Email Notifications and Alerts
-- 📊 Dashboard for Admin and Reviewers
+- 📊 Dashboard for Researchers, Admin and Reviewers
 - 🔍 Search & Filter Submissions
 
 ---
@@ -40,7 +40,7 @@ The Document Submission App streamlines the process of:
 - Blade Templating Engine
 - MySQL / PostgreSQL
 - Bootstrap / Tailwind CSS (based on UI version)
-- Optional: Laravel Breeze / Jetstream for authentication scaffolding
+- aravel Breeze / Jetstream for authentication scaffolding
 
 ---
 
